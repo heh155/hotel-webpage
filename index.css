@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:white;
+}
+
+.one{
+    display: flex;
+
+}
+.logo img{
+    margin-left: 20px;
+    height: 100px;
+    width: 126px;
+    left: 192px;
+    top: 49px;
+    border-radius: nullpx;
+
+}
+.dot img{
+    margin-left: 1090px;
+    margin-top: 32px;
+    width: 20px;
+    justify-content: right;
+    height: 20px;
+    width: 24px;
+    left: 4px;
+    top: 6px;
+    border-radius: 0px;
+
+}
+.two{
+    display: flex;
+}
+
+.img1 img{
+    width: 400px;
+    margin-left: 200px;
+    margin-top: 20px;
+    border-radius: 256px;
+    overflow: hidden;
+}
+.text1{
+    margin-left: 70px;
+}
+.one1{
+    background-color: green;
+    color: white;
+    max-width: 200px;
+    margin-top: 85px;
+}
+.two2{
+    background-color: white;
+    color:black;
+    max-width: 200px;
+    margin-top: 32px;
+    font-size: 37px;
+}
+.three3{
+    background-color: white;
+    color: black;
+    margin-top: 86px;
+
+}
+.four4{
+    background-color: orange;
+    color:white;
+    max-width: 200px;
+    margin-top: 93px;
+    font-size: 27px;
+
+}
+.bottom_img{
+    margin-top: 20px;
+}
+.menu1{
+    margin-top: 40px;
+    margin-left: 585px;
+    background-color: green;
+    max-width: 89px;
+    color: white;
+}
+.explore{
+    margin-top: 20px;
+    margin-left: 551px;
+    
+}
+.img1_menu{
+    margin-left: 125px;
+    margin-top: 20px;
+}
+.footer{
+    background-color:  #FFF0DB;
+    margin-left: -1px;
+}
